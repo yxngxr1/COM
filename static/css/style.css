@@ -1,0 +1,64 @@
+h4 {
+    color: lightgrey;
+    margin-left: 20px;
+}
+
+p {
+    font-size: 24px;
+    color: rgba(0,0,0,0.8);
+}
+
+.title {
+    text-align: center;
+    margin: 40px 40px;
+}
+
+table {
+    width: 100%;
+    font-size: 22px;
+    color: rgba(0,0,0,0.8);
+    margin: auto;
+}
+
+.row1 {
+    background: rgba(0,0,0,0.15);
+}
+
+td {
+    padding: 5px 5px;
+}
+
+.action_item {
+    margin: 40px auto;
+}
+
+.action {
+    font-size: 24px;
+    color: rgba(0,0,0,0.8);
+}
+
+.job {
+    width: 30%;
+    background: rgba(0,0,0,0.08);
+}
+
+.leader {
+    width: 20%;
+    background: rgba(0,0,0,0.08);
+}
+
+.work-size {
+    width: 10%;
+    background: rgba(0,0,0,0.08);
+}
+
+.collaborators {
+    width: 20%;
+    text-align: center;
+    background: rgba(0,0,0,0.08);
+}
+
+.is_finished {
+    width: 10%;
+    text-align: center;
+}
